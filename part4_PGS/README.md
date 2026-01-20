@@ -1,1 +1,2 @@
-#PGS
+This directory contains a SLURM script for estimating SNP effect size weights using PRS-CS.
+The script is designed to run PRS-CS chromosome-wise (chr1–22) for a given time point using GWAS summary statistics.
