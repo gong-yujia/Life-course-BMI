@@ -6,7 +6,7 @@ This repository contains the code for conducting Cox regression analyses on poly
 
 ## Key Features:
 - Adjusts for age, genotyping batch, and principal components.
-- Stratifies PRS into low, intermediate, and high risk groups.
+- Stratifies PGS into low, intermediate, and high risk groups.
 - Outputs HR, CI, and p-values for each outcome.
 - **Gender-specific PGS for Prostate Cancer and Breast Cancer**:
   - For **prostate cancer** and **breast cancer**, gender-specific PGS files are used, with separate calculations for males and females.
